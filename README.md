@@ -9,27 +9,50 @@ Iterating over data structures
 Implementing algorithms efficiently
 Enhancing code modularity and readability
 
+empts, display "System is locked".
+
 🔐 Password Verification Algorithm
+
     Initialize Variables
+
         Set a fixed password (e.g., "BCD9QTTU").
+
         Create a variable to store user input.
+
         Set attempts to 0.
+
         Define a maximum number of attempts (e.g., 3).
+
     Loop While Attempts Are Less Than Maximum
+
         Prompt the user to enter the password.
+
         Hide the input characters (optional, depending on system).
+
         Capture each character typed until the Enter key is pressed.
+
             If the character is Backspace, remove the last character from the input.
+
             Otherwise, add the character to the input and show * on the screen.
+
     Validate the Password
+
         If the entered password matches the stored password:
+
             Display "System is Unlocked".
+
             Exit the program.
+
         If not:
+
             Increment the attempt counter.
+
             Display "Incorrect Password" and show remaining attempts.
+
     Lock the System if Attempts Exceed Limit
+
         After maximum attempts, display "System is locked".
+
         Exit the program.
         
 🔄 Types of Loops in C++
