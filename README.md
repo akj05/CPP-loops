@@ -8,6 +8,7 @@ Automating repetitive tasks
 Iterating over data structures
 Implementing algorithms efficiently
 Enhancing code modularity and readability
+
 🔐 Password Verification Algorithm
     Initialize Variables
         Set a fixed password (e.g., "BCD9QTTU").
@@ -30,6 +31,7 @@ Enhancing code modularity and readability
     Lock the System if Attempts Exceed Limit
         After maximum attempts, display "System is locked".
         Exit the program.
+        
 🔄 Types of Loops in C++
 1. For Loop
 Used when the number of iterations is known beforehand.
