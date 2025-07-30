@@ -55,7 +55,7 @@ empts, display "System is locked".
 
         Exit the program.
 
-        🔢 Even Number Printer – Algorithm
+ 🔢 Even Number Printer – Algorithm
 
     Start the Program
 
