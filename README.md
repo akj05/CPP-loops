@@ -54,6 +54,24 @@ empts, display "System is locked".
         After maximum attempts, display "System is locked".
 
         Exit the program.
+
+        🔢 Even Number Printer – Algorithm
+
+    Start the Program
+
+        Initialize a loop counter i starting from 1.
+
+    Repeat While i is Less Than or Equal to 10
+
+        Check if i is divisible by 2 using i % 2 == 0.
+
+            If true: print the value of i (it’s an even number).
+
+        Increase i by 1 after each loop iteration.
+
+    End the Program
+
+        Once the loop finishes, exit and return control to the system.
         
 🔄 Types of Loops in C++
 1. For Loop
